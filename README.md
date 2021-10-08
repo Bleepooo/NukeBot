@@ -1,6 +1,5 @@
 # NukeBot
 Bot I wrote todo the funny to discord servers
 
-Run on an alt I can almost gaurentee your main will get terminated
-
-I am not responsible for any damage caused by this program
+This is written for educational purposes only, I do not condone the use of this program.
+Don't nuke discords, it's a shitty thing todo and is against TOS.
